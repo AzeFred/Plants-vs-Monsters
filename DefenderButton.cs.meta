@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: aa5365cc6b45f3e4e9f4ee06c862399b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - defenderPrefab: {fileID: 8266851273814013704, guid: 7f1b9ab2c13c9e6418866b54b5ee34a7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
